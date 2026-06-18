@@ -78,11 +78,12 @@ A community-curated collection of awesome AI tools, frameworks, learning resourc
 *   [JetBrains AI Assistant](https://jetbrains.com/ai) - AST-aware code understanding with semantic refactoring in JetBrains IDEs (2026).
 
 #### AI App Builders
-*   [v0 by Vercel](https://v0.dev/) - Generative UI from prompts/designs. Generates React + Tailwind + shadcn/ui. Token-based pricing, Figma import, direct Vercel deployment.
-*   [Lovable](https://lovable.dev/) - Full-stack web apps via natural language. Generates Next.js + React + Supabase. One-click auth/database, GitHub export. $25/mo Pro.
 *   [Bolt.new](https://bolt.new/) - Browser-based instant full-stack apps by StackBlitz. React/Next.js + Node.js + Vite. In-browser IDE with live preview. $20/mo Pro.
 *   [Builder.io AI](https://builder.io/) - Design-to-code from Figma with design system enforcement and Jira/Slack integration.
 *   [Claude Artifacts](https://claude.ai/) - Prompt-to-app in Claude chat. HTML/JS/React output. Free tier + Pro $20/mo (2024 feature).
+*   [Lovable](https://lovable.dev/) - Full-stack web apps via natural language. Generates Next.js + React + Supabase. One-click auth/database, GitHub export. $25/mo Pro.
+*   [Roblox GUI Maker](https://robloxguimaker.dev/) - Prompt-to-Roblox Studio UI planner for ScreenGui layouts, HUDs, menus, and Lua UI starter code.
+*   [v0 by Vercel](https://v0.dev/) - Generative UI from prompts/designs. Generates React + Tailwind + shadcn/ui. Token-based pricing, Figma import, direct Vercel deployment.
 
 #### Configuration & Tooling
 *   [LNAI](https://github.com/KrystianJonca/lnai) - Unified AI configuration management CLI. Define once in `.ai/`, sync to Cursor, VS Code, and more.
